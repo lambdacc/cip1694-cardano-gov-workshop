@@ -4,6 +4,11 @@
 
 This repository contains materials from the Cardano Governance Workshop focused on CIP-1694, exploring the future of decentralized governance in the Cardano ecosystem.
 
+This workshop was featured as a side event organised during India Blockchain Week (IBW) 2024. IBW is India's flagship series of blockchain and Web3 events, conducted over the course of a week. This year, it was held in Bengaluru.
+
+![IBW-event-list-screenshot.png](docs/IBW-event-list-screenshot.png)
+
+
 ## Key Topics Covered
 
 - Cardano's Governance Roadmap
